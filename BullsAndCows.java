@@ -1,5 +1,3 @@
-package presentations;
-
 import java.util.Scanner;
 
 public class BullsAndCows {
